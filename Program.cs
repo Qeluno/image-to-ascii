@@ -13,7 +13,7 @@ namespace image_to_ascii
 
             Console.WriteLine("----------Usage----------");
             Console.WriteLine("<inputFilename> -o <outputFilepath> -n <outputFilename>");
-            Console.WriteLine("Example: C:\\Users\\Alex\\Pictures\\waterfall.png -o C:\\Users\\Alex\\Downloads -n waterfall_ascii");
+            Console.WriteLine("Example: C:\\Users\\Alex\\Pictures\\waterfall.png -o C:\\Users\\Alex\\Downloads\\ -n waterfall_ascii");
             Console.WriteLine("^ Creates a \"waterfall_ascii.txt\" file in C:\\Users\\Alex\\Downloads\\ ^");
 
             Console.WriteLine(Environment.NewLine);
