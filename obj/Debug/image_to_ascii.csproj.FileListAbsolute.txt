@@ -1,0 +1,7 @@
+D:\vs\cs\projects\image_to_ascii\image_to_ascii\bin\Debug\image_to_ascii.exe.config
+D:\vs\cs\projects\image_to_ascii\image_to_ascii\bin\Debug\image_to_ascii.exe
+D:\vs\cs\projects\image_to_ascii\image_to_ascii\bin\Debug\image_to_ascii.pdb
+D:\vs\cs\projects\image_to_ascii\image_to_ascii\obj\Debug\image_to_ascii.csproj.AssemblyReference.cache
+D:\vs\cs\projects\image_to_ascii\image_to_ascii\obj\Debug\image_to_ascii.csproj.CoreCompileInputs.cache
+D:\vs\cs\projects\image_to_ascii\image_to_ascii\obj\Debug\image_to_ascii.exe
+D:\vs\cs\projects\image_to_ascii\image_to_ascii\obj\Debug\image_to_ascii.pdb
