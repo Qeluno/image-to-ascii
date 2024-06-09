@@ -5,6 +5,6 @@ A simple command line tool to convert images to ASCII art.
 ### Format
     $ <inputFilename> -o <outputFilepath> -n <outputFilename>
 ### Example
-    $ C:\Users\Alex\\Pictures\waterfall.png -o C:\Users\Alex\Downloads\ -n waterfall_ascii
+    $ C:\Users\Alex\Pictures\waterfall.png -o C:\Users\Alex\Downloads\ -n waterfall_ascii
 ### Quitting the Program
     $ EXIT
